@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Save The World</string>
+    <string name="tab_text_1">Info and stuff</string>
+    <string name="tab_text_2">History</string>
+</resources>
